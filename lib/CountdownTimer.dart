@@ -7,8 +7,8 @@ TO BEGIN WITH CUSTOMPAINT MAKE SURE U AWARE ABOUT THESE TERMINOLOGIES
 3-paint=>          its the brush using which we paint or draw things
 4-canvas=>         its the page on which we are drawing things
  */
-
-
+//The link of tutorial is here 
+/*https://medium.com/flutterdevs/creating-a-countdown-timer-using-animation-in-flutter-2d56d4f3f5f1 */
 class CountDownTimer extends StatefulWidget {
   @override
   _CountDownTimerState createState() => _CountDownTimerState();

@@ -1,6 +1,12 @@
 import 'dart:math' show pi;
 import 'package:flutter/material.dart';
-
+/*
+TO BEGIN WITH CUSTOMPAINT MAKE SURE U AWARE ABOUT THESE TERMINOLOGIES 
+1- CustomPaint=>   its the class given by the dart to us
+2-CustomPainter=>  its the painter who is doing creative things
+3-paint=>          its the brush using which we paint or draw things
+4-canvas=>         its the page on which we are drawing things
+ */
 
 
 class CountDownTimer extends StatefulWidget {
